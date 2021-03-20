@@ -1,5 +1,5 @@
 body{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #231f20;
 }
 p {
@@ -54,15 +54,23 @@ a{
     background-color: #dcdddf;
 }
 
-
-
 label {
-    display: flex;
+    margin-right: 7px;
     float: left;
+    margin-top: 4px;;
 }
-
-input {
 
 .clear{
     clear: both;
 }
+input{
+    height: 35px;
+}
+.inp1{width: 85.92%;}.inp2{width: 88.768%;}.inp3 {width: 83.768%;}.inp4 { width: 87.17%;}
+.title.is-4 {
+    font-weight: 400;
+}
+
+.noBorder{border: none !important; background: none !important;}
+
+th{background-color: #d1232a; color: #fff !important; border: 1px solid #a9a9a9 !important;}
