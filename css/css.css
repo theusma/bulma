@@ -1,0 +1,40 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #231f20;
+}
+
+.container {
+    max-width: 794px;
+    padding: 50px;
+}
+.destaque{
+    background-color: #d1232a;
+    color: #fff;
+    font-weight: 900;
+}
+.topo .is-size-4 {
+    font-size: 1.5rem !important;
+    letter-spacing: -0.8px;
+}
+.is-size-7-5 {
+    font-size: 0.80rem !important;
+}
+.is-size-8 {
+    font-size: 0.78rem !important;
+    letter-spacing: -0.8px;
+}
+.is-size-9 {
+    font-size: .68rem !important;
+}
+.is-size-10 {
+    font-size: .65rem !important;
+    letter-spacing: -0.7px;
+}
+
+.strongCor{
+    color: #d1232a;
+}
+
+.subtitle, .title {
+    color: #231f20;
+}
