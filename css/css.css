@@ -1,5 +1,12 @@
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    color: #231f20;
+}
+p {
+    font-weight: 400;
+    color: #231f20;
+}
+a{
     color: #231f20;
 }
 
@@ -37,4 +44,25 @@ body{
 
 .subtitle, .title {
     color: #231f20;
+}
+
+.title.is-1.is-size-2 {
+    font-weight: 900;
+}
+
+.caixaPadrao{
+    background-color: #dcdddf;
+}
+
+
+
+label {
+    display: flex;
+    float: left;
+}
+
+input {
+
+.clear{
+    clear: both;
 }
